@@ -1,3 +1,4 @@
 .gitignore_global
 .gitignore_globales
 Notebooks/data/*.csv
+Notebooks/fake_update.csv Notebooks/true_cleaned.csv
