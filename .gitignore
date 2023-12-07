@@ -1,4 +1,4 @@
 .gitignore_global
 .gitignore_globales
 data/
-raw_data/
+raw_data/*.csv
