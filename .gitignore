@@ -3,4 +3,7 @@
 Notebooks/data/*.csv
 Notebooks/fake_update.csv Notebooks/true_cleaned.csv
 raw_data/*
+.ipynb_checkpoints/*
+Notebooks/*
+notebooks/*
 
