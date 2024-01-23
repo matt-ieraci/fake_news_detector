@@ -4,12 +4,18 @@ In an age where AI-generated fake news is becoming increasingly sophisticated, o
 
 
 ## Screenshots
-![HomePage] (screenshots/homepage.png)
-![TextInput] (screenshots/text_input.png)
-![TrueResult] (screenshots/true_result.png)
-![GazetteArticle] (screenshots/gazette_article.png)
-![FakeResult] (screenshots/fake_result.png)
-![OnionArticle] (screenshots/onion_article.png)
+### Home Page
+![HomePage](screenshots/homepage.png)
+### Text Input
+![TextInput](screenshots/text_input.png)
+### True Article (Gazette of Montreal)
+![GazetteArticle](screenshots/gazette_article.png)
+### True Result (Gazette)
+![TrueResult](screenshots/true_result.png)
+### Fake Article (The Onion)
+![OnionArticle](screenshots/onion_article.png)
+### Fake Result (The Onion)
+![FakeResult](screenshots/fake_result.png)
 
 ## Demo
 Follow this link to try it yourself:
